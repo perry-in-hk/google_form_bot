@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Chrome WebDriver binaries
+chromedriver*
+
+# Logs
+*.log
+
+# Sensitive data
+credentials.json
+secrets.json
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/ 
