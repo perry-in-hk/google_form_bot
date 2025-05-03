@@ -23,7 +23,7 @@ This project provides a flexible framework for automating Google Form submission
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/google-form-bot.git
+git clone https://github.com/perry-in-hk/google-form-bot.git
 cd google-form-bot
 ```
 
